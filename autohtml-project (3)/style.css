@@ -1,0 +1,113 @@
+.wireframe-3,
+.wireframe-3 * {
+  box-sizing: border-box;
+}
+.wireframe-3 {
+  background: rgba(167, 198, 226, 0.6);
+  height: 1080px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-22 {
+  background: #a7c6e2;
+  width: 1920px;
+  height: 1080px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-9 {
+  background: #ffffff;
+  padding: 0px 24px 0px 24px;
+  width: 1200px;
+  height: 1080px;
+  position: absolute;
+  left: -186px;
+  top: 0px;
+}
+.div {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 553px;
+  top: 68px;
+  width: 472px;
+  height: 56px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+.layer-1 {
+  width: 364px;
+  height: 453px;
+  position: absolute;
+  left: 545px;
+  top: 150px;
+  overflow: hidden;
+}
+.rectangle {
+  width: 100.52%;
+  height: 101.15%;
+  position: absolute;
+  right: -0.52%;
+  left: 0%;
+  bottom: -1.15%;
+  top: 0%;
+  object-fit: cover;
+}
+._31-4-3-851-801-14-6-8-4-1-785-395-1-035-176-54-4-5-8-717-463-4-6-558-214-3-9-5-1-623-062-4-4-542-561-484-067 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 925px;
+  top: 191px;
+  width: 224px;
+  height: 453px;
+}
+.frame-8 {
+  background: #ffffff;
+  padding: 80px 24px 80px 24px;
+  width: 1156px;
+  height: 1080px;
+  position: absolute;
+  left: 1014px;
+  top: 0px;
+}
+._23-12 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Medium", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 187px;
+  width: 550px;
+  height: 71px;
+}
+.layer-12 {
+  width: 576px;
+  height: 371px;
+  position: absolute;
+  left: 10px;
+  top: 161px;
+  overflow: hidden;
+}
+.rectangle2 {
+  width: 92.36%;
+  height: 92.45%;
+  position: absolute;
+  right: 7.64%;
+  left: 0%;
+  bottom: -23.18%;
+  top: 30.73%;
+  object-fit: cover;
+}

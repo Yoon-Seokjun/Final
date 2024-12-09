@@ -1,0 +1,58 @@
+.wireframe-6,
+.wireframe-6 * {
+  box-sizing: border-box;
+}
+.wireframe-6 {
+  background: #ffffff;
+  height: 1080px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-14 {
+  background: #2a5c96;
+  width: 1266px;
+  height: 581px;
+  position: absolute;
+  left: 326px;
+  top: 0px;
+}
+.rectangle-12 {
+  background: #51779c;
+  width: 1398px;
+  height: 1080px;
+  position: absolute;
+  left: 261px;
+  top: 0px;
+}
+.div {
+  color: #ffffff;
+  text-align: left;
+  font-family: "NotoSans-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 352px;
+  top: 24px;
+  width: 472px;
+  height: 55px;
+}
+._62-1-7-1-6-9-3-8-3-1-2-2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "NotoSans-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 352px;
+  top: 103px;
+  width: 1220px;
+  height: 136px;
+}
+.image-1 {
+  width: 1652px;
+  height: 1164px;
+  position: absolute;
+  left: 190px;
+  top: 249px;
+  object-fit: cover;
+}

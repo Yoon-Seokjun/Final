@@ -1,0 +1,38 @@
+.wireframe-7,
+.wireframe-7 * {
+  box-sizing: border-box;
+}
+.wireframe-7 {
+  background: #ffffff;
+  height: 1080px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-15 {
+  background: #ffffff;
+  width: 1512px;
+  height: 1432px;
+  position: absolute;
+  left: 204px;
+  top: 63px;
+}
+.div {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 352px;
+  top: 86px;
+  width: 472px;
+  height: 55px;
+}
+.image-2 {
+  width: 836px;
+  height: 1372px;
+  position: absolute;
+  left: 506px;
+  top: -195px;
+  object-fit: cover;
+}

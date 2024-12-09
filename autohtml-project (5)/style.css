@@ -1,0 +1,120 @@
+.wireframe-5,
+.wireframe-5 * {
+  box-sizing: border-box;
+}
+.wireframe-5 {
+  background: #ffffff;
+  height: 1080px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-10 {
+  padding: 24px;
+  width: 1057px;
+  height: 365px;
+  position: absolute;
+  left: 224px;
+  top: 64px;
+}
+.frame-6 {
+  background: #ffffff;
+  padding: 23px 21px 23px 21px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-end;
+  width: 768px;
+  height: 679px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.layer-1 {
+  flex-shrink: 0;
+  width: 674px;
+  height: 300px;
+  position: relative;
+  overflow: hidden;
+}
+.clip-path-group {
+  height: auto;
+  position: absolute;
+  left: 103px;
+  top: 23px;
+  overflow: visible;
+}
+.div {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 150px;
+  top: 26px;
+  width: 348px;
+  height: 55px;
+}
+._40-33-5-40-40-17-0-50-16-0 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 150px;
+  top: 103px;
+  width: 574px;
+  height: 136px;
+}
+.rectangle-7 {
+  background: #ffffff;
+  width: 1023px;
+  height: 709px;
+  position: absolute;
+  left: 1281px;
+  top: 64px;
+}
+.layer-12 {
+  width: 395px;
+  height: 403px;
+  position: absolute;
+  left: 1084px;
+  top: 315px;
+  overflow: hidden;
+}
+.rectangle {
+  width: 99.75%;
+  height: 100.7%;
+  position: absolute;
+  right: 0.25%;
+  left: 0%;
+  bottom: -0.7%;
+  top: 0%;
+  object-fit: cover;
+}
+.div2 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Bold", sans-serif;
+  font-size: 24px;
+  font-weight: 700;
+  position: absolute;
+  left: 1042px;
+  top: 95px;
+  width: 478px;
+  height: 76px;
+}
+._68-3 {
+  color: #000000;
+  text-align: left;
+  font-family: "NotoSans-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: absolute;
+  left: 1051px;
+  top: 204px;
+  width: 433px;
+  height: 187px;
+}
